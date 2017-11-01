@@ -1,0 +1,15 @@
+.camp {
+  background-color: #8CB27C;
+  width: 80%;
+  height: 70%;
+  position: absolute;
+}
+
+.border {
+  border: 5px solid white;
+  position: relative;
+  width: 75%;
+  height: 65%;
+  left: 10px;
+  top: 10px;
+}
