@@ -8,8 +8,54 @@
 .border {
   border: 5px solid white;
   position: relative;
-  width: 75%;
-  height: 65%;
-  left: 10px;
-  top: 10px;
+  width: 96.5%;
+  height: 92%;
+  left: 15px;
+  top: 15px;
+}
+
+.square1 {
+  border: 5px solid white;
+  position: absolute;
+  width: 8%;
+  height: 40%;
+  top: 135px;
+  left: 15px;
+}
+
+.square2 {
+  border: 5px solid white;
+  position: absolute;
+  width: 8%;
+  height: 40%;
+  top: 135px;
+  right: 13px;
+}
+
+.middle {
+  height: 40%;
+  width: 16%;
+  border: 5px solid white;
+  border-radius: 50%;
+  position: absolute;
+  left: 440px;
+  top: 135px;
+}
+
+.point1 {
+  position: absolute;
+  top: 140px;
+  left: 93px;
+}
+
+.point2 {
+  position: absolute;
+  bottom: 115px;
+  right: 118px;
+}
+
+.point3 {
+  position: absolute;
+  top: 75px;
+  right: 530px;
 }
